@@ -1,0 +1,3 @@
+let Alunos = [], Notas = [] 
+
+for()
